@@ -192,3 +192,6 @@ cat (""/n=== Complete dictionary ===/n)
 for (i in 1: length(english_words)) {
     cat(i, "",english_words[i], "=", traditional_words[i], "\n")
 }
+
+
+
